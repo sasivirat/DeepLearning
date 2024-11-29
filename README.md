@@ -1,6 +1,6 @@
-# **Deep Learning Lessons**
+# **NLP FOR AI**
 
-## **Introduction to Deep Learning**
+## **Introduction to NLP**
 An overview of what deep learning is, including how it differs from traditional machine learning and its applications.
 
 ## **Fundamentals of Neural Networks**
